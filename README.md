@@ -31,13 +31,12 @@ Frontend: HTML, CSS, JavaScript
 Data Handling: Pandas, NumPy
 
 📂 Project Structure
+
 custom-classification-system/
 │
 ├── data/
 │   ├── raw/
-
 │   │   └── telco_churn_with_feedback.csv
-
 │   └── processed/
 
 │       └── telco_prep.csv
