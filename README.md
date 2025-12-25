@@ -33,14 +33,21 @@ Data Handling: Pandas, NumPy
 📂 Project Structure
 
 custom-classification-system/
+
 │
+
 ├── data/
+
 │   ├── raw/
+
 │   │   └── telco_churn_with_feedback.csv
+
 │   └── processed/
 
 │       └── telco_prep.csv
+
 │
+
 ├── src/
 
 │   ├── data_preprocessing.py
@@ -50,6 +57,7 @@ custom-classification-system/
 │   ├── train_model.py
 
 │   └── evaluate_model.py
+
 │
 ├── api/
 
