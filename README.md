@@ -30,58 +30,6 @@ Frontend: HTML, CSS, JavaScript
 
 Data Handling: Pandas, NumPy
 
-📂 Project Structure
-
-custom-classification-system/
-
-│
-
-├── data/
-
-│   ├── raw/
-
-│   │   └── telco_churn_with_feedback.csv
-
-│   └── processed/
-
-│       └── telco_prep.csv
-
-│
-
-├── src/
-
-│   ├── data_preprocessing.py
-
-│   ├── feature_engineering.py
-
-│   ├── train_model.py
-
-│   └── evaluate_model.py
-
-│
-├── api/
-
-│   ├── main.py
-
-│   ├── schemas.py
-
-│   └── utils.py
-│
-├── frontend/
-
-│   ├── index.html
-
-│   ├── style.css
-
-│   └── script.js
-│
-├── models/
-│   ├── churn_model.pkl
-
-│   └── feature_columns.pkl
-│
-└── README.md
-
 ## How the System Works
 User Input (Web Form)
         ↓
